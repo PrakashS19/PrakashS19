@@ -1,47 +1,31 @@
-#
+# Hi, I'm Prakash 👋
 
-<img src="welcome.gif" width="100%" height="300px">
-<a align="center">
-</a>
-<h1 align="center"> Hi! <img  src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="chan" width="30px" height="30px"> I'm S Prakash !
+Master of Data Science student at RMIT University, Melbourne, with project experience in data analysis, machine learning, business intelligence and software testing. I use Python, SQL, Power BI and statistical modelling to turn messy datasets into interpretable analysis.
 
-[![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%246333F5&vCenter=true&lines=A+Master+of+Data Science+Student,;Studying+at+RMIT+University(Melb).;A+Web+and+Backend+Developer.;I’ll+never+be+perfect,+but+I+can+be+better.>)](https://git.io/typing-svg)
-</h1>
+## Featured data projects
 
+### [Australian Retail Sales Forecasting](https://github.com/PrakashS19/australian-retail-sales-forecasting.)
+**Python · SARIMA · XGBoost · Time-series validation**  
+Reconstructed and independently executed a rolling one-month-ahead forecast of Australian retail turnover using 519 months of Australian Bureau of Statistics data. On a 24-month historical test period (July 2023–June 2025), a SARIMA/XGBoost ensemble achieved **1.27% MAPE**, versus **1.33%** for a stronger growth-adjusted seasonal baseline. This is historical backtesting, not live forecast performance.
 
+### [Customer Segmentation & Churn Risk](https://github.com/PrakashS19/customer-segmentation-churn-risk)
+**Python · SQL · K-Means · Logistic regression**  
+Analysed UCI's historical UK Online Retail II transactions. Matched SQL and pandas RFM calculations for **5,256** customers in the test snapshot, profiled **four segments**, and evaluated a 90-day *inactivity* classifier with **0.798 test AUC**. Inactivity is a defined proxy, not actual subscription cancellation; estimated revenue at risk is not confirmed lost revenue. Source workbook can be downloaded from UCI as documented in the repository.
 
-<h3 align="left"> ~ Languages I'm familiar with :</h3>
+### [Australian Wage Growth vs Inflation](https://github.com/PrakashS19/australian-wage-growth-vs-inflation)
+**Python · pandas · Economic data analysis · Data visualisation**  
+Reconstructed and re-executed a CPI/WPI analysis using official ABS quarterly indices. The wage-to-price index ratio was **4.76% below its December 2019 benchmark** in June 2026. The index ratio is a purchasing-power proxy, not individual take-home pay.
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css&theme=light)](https://skillicons.dev)
+## More projects
+- [Renewable Energy Machine Learning Analysis](https://github.com/PrakashS19/renewable-energy-ml-analysis) — solar and wind modelling using linear regression and LightGBM; raw Kaggle datasets are linked, not redistributed.
+- [SaaS Churn & Revenue Dashboard](https://github.com/PrakashS19/saas-churn-powerbi-dashboard) — Power BI / SQL analytics.
+- [SaaS Cohort Retention Analysis](https://github.com/PrakashS19/saas_cohort_retention_analysis) — cohort metrics and retention visualisation.
 
-<h3 align="left"> ~ Tools, Services, Environments and Template Engines used frequently :</h3>
+## Technical toolkit
+Python (pandas, scikit-learn, XGBoost) · SQL · Power BI · Excel · Jupyter · Git/GitHub · software QA
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github&theme=light)](https://skillicons.dev)
+## Connect
+[LinkedIn](https://www.linkedin.com/in/prakash-s-82b67823b)
 
-<h3 align="left"> ~ Connect me with :</h3>
-
-<p align="left">
-  <a href="https://www.instagram.com/iam_prakash03/" >
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/prakash-s-82b67823b">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
-
-
-| GitHub Stats                                                                                           | Top Languages                                                                                            |
-|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| ![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrakashS19&show_icons=true&theme=neon) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashS19&layout=compact&theme=neon) |
-
-| GitHub Stats                                                                                                   | Profile Details                                                                                               |
-|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| ![Prakash's Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrakashS19&theme=2077&utcOffset={utcOffset}) | ![Prakash's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrakashS19&theme=2077) |
-
-
-
-## Certifications && Skilled IN
-- The Bits & Bytes of Computer Networking
-- Python for Beginners
-
+---
+*Featured forecasting, segmentation and wage-analysis repositories are independently re-executed recoveries of previously recorded notebook logic. See each repository's documentation for datasets, methodology, reproducibility and limitations.*
